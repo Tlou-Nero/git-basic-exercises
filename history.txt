@@ -1,0 +1,267 @@
+    1  ls
+    2  root
+    3  tlou
+    4  /Downloads
+    5  Downloads/
+    6  pwd
+    7  lrh
+    8  home
+    9  pwd
+   10  mkdir Tlou
+   11  cd Tlou
+   12  pwd
+   13  ls
+   14  cd home
+   15  cd/home/Tokelo
+   16  cd /home/Users/Tokelo
+   17  del Tlou
+   18  delete Tlou
+   19  del /Tlou
+   20  pwd
+   21  ls
+   22  cd /c
+   23  cd c/Users/Tokelo
+   24  cd /c/Users
+   25  ls
+   26  cd /TOKELO
+   27  cd /Users/Tokelo
+   28  pwd
+   29  cd /
+   30  ls
+   31  cd
+   32  ls
+   33  cd ~
+   34  ls
+   35  cd /
+   36  ls
+   37  cd ~
+   38  ls
+   39  cd /Tlou
+   40  ls -i
+   41  ls -I
+   42  ls --I
+   43  ls -R
+   44  ls -l -t -r
+   45  ls -lh
+   46  ls -l
+   47  man ls
+   48  man cd
+   49  cd /man
+   50  help
+   51  CD /Users/Tlou
+   52  cd /Users/Tlou
+   53  pwd
+   54  c/Users cd TOKELO
+   55  ls
+   56  cd ~/Tlou
+   57  cd ~/Tokelo
+   58  cd ~/TOKELO
+   59  cd ~
+   60  rmdir Tlou
+   61  ls
+   62  ls
+   63  ls -R
+   64  ls -R
+   65  pwd
+   66  cd ~
+   67  cd ~ mkdir Tlou
+   68  cd /Tlou
+   69  mkdir /Tlou
+   70  c/Users mkdir /Tlou
+   71  pwd
+   72  cd ~
+   73  cd ~/Users
+   74  cd ~ mkdir /Tlou
+   75  mkdir /
+   76  cd/
+   77  cd 
+   78  cd /
+   79  mkdir /tlou
+   80  cd /Tokelo
+   81  mkdir/tlou
+   82  mkdir tlou
+   83  ls
+   84  mkdir /Tlou
+   85  mkdir /Tlou
+   86  pwd
+   87  cd /Tlou
+   88  touch me.txt
+   89  cd ../../Temp
+   90  pwd
+   91  mkdir /Mafane
+   92  mv ?e Mafane/
+   93  mv *e Mafane/
+   94  mv me.txt Mafane/
+   95  cd /Mafane
+   96  cd /Tlou
+   97  ls
+   98  mv me.txt Mafane
+   99  ls
+  100  cd /Mafane
+  101  ls
+  102  ls
+  103  cd /Tlou
+  104  ls
+  105  help
+  106  rst
+  107  touch me.txt
+  108  touch you.txt
+  109  ls
+  110  mv me.txt Mafane/works.txt
+  111  touch why
+  112  ls
+  113  mv why Mafane/now
+  114  why mv now
+  115  mv why now
+  116  ls
+  117  mkdir /Temp
+  118  cd /tmp
+  119  ls
+  120  mv Temp Mafane/
+  121  cd /Tlou mv Temp Mafane/
+  122  cd ~
+  123  cd /Tlou
+  124  ls
+  125  rm -i Mafane me.txt now you.txt
+  126  ls
+  127  cd ~
+  128  touch one
+  129  ls
+  130  cp one /Tlou
+  131  cd /Tlou
+  132  ls
+  133  cp one
+  134  cp one1
+  135  cp one one1
+  136  ls
+  137  rm -i *one
+  138  ls
+  139  rm -i one1 
+  140  cd ~
+  141  ls *ne
+  142  rm -i one
+  143  cd /Tlou
+  144  touch me
+  145  cp me1 .
+  146  ls
+  147  ls .
+  148  ls ./
+  149  man cp
+  150  echo "I love you"
+  151  echo "I love you" > love.txt
+  152  less love.txt
+  153  echo "my love" >> love.txt
+  154  cat love.txt
+  155  less love.txt
+  156  cat love.txt > me.txt
+  157  ls
+  158  ls -i
+  159  ls -l
+  160  wc
+  161  echo $passwords
+  162  echo $user
+  163  echo $Users
+  164  mkdir /me
+  165  nano love.txt
+  166  cd /Tlou
+  167  ls
+  168  nano me.txt
+  169  echo passwords
+  170  echo $passwords
+  171  \TOKELO
+  172  ls
+  173  nano me.txt
+  174  grep -w Galactic
+  175  grep -w Galactic me.txt
+  176  cd /Tlou
+  177  grep -w Galactic me.txt
+  178  grep -c '[br]ad'
+  179  cd ~/git-basic-exercises
+  180  status
+  181  git status
+  182  git log
+  183  q
+  184  nano README.md
+  185  cat README.md
+  186  git stats
+  187  git status
+  188  git commit -m "second commit"
+  189  git add README.md
+  190  git commit -a "second commit"
+  191  git commit -m "second commit"
+  192  git log
+  193  nano README.md
+  194  git add README.md
+  195  git commit -m "initial commit"
+  196  git log
+  197  git status 
+  198  nano README.md
+  199  git commit -a
+  200  cd ~/git-basic-exercises
+  201  git status
+  202  git commit -a "second commit"
+  203  git restore README.md
+  204  git log
+  205  cat README.md
+  206  git log
+  207  cd ~
+  208  rm -i git-basic-exercises
+  209  rmdir git-basic-exercises
+  210  cd ~/git-basic-exercises
+  211  git log
+  212  rm -i initial commit
+  213  git branch -D initial commit
+  214  git branch -d initial commit
+  215  git reset --hard head~2
+  216  git checkout master
+  217  git status
+  218  git log
+  219  cd ~/git-basic-exercises
+  220  git init git-basic-exercises
+  221  cd ~/git-basic-exercises
+  222  touch README.md
+  223  git add README.md
+  224  git commit -m "Initial commit"
+  225  nan0 README.md
+  226  nano README.md
+  227  git commit -a "second commit"
+  228  git status
+  229  git log
+  230  git add README.md
+  231  git commit -m "second commit"
+  232  git log
+  233  nano README.md
+  234  git add README.md
+  235  git commit -m "third commit"
+  236  git status
+  237  git log
+  238  git checkout 3285068d691ae0bab9fc43aeed202cd318ba4cf7
+  239  cat README.md
+  240  git checkout main
+  241  git checkout master
+  242  cat README.md
+  243  git branch
+  244  git branch milkshake-flavours
+  245  git branch
+  246  git branch
+  247  git checkout milkshake-flavours
+  248  git branch
+  249  nano milkshake.md
+  250  git status
+  251  git add milkshake-flavours.md
+  252  git add milkshake.md
+  253  git commit -m 'added initial flavours"
+  254  git commit -m "added initial flavours"
+  255  cd ~/git-basic-exercises
+  256  git status
+  257  cat milkshake.md
+  258  git commit -m "added initial flavours"
+  259  git log
+  260  git branch
+  261  git checkout master
+  262  git branch history
+  263  git chekout history
+  264  git checkout history
+  265  git log
+  266  git branch
+  267  history > history.txt
